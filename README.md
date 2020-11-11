@@ -6,6 +6,42 @@
 
 그냥 `konply` 라이브러리의 예제를 보다가 가수 아이유 노래들로 가사를 랜덤하게 생성하면 어떨까 생각이 들었다.
 
+## 데이터셋
+
+사용된 노래 가사는 다음과 같습니다.
+
+총 14397자입니다.
+
+```
+./data/Havana.txt
+./data/Into the island.txt
+./data/Modern Times.txt
+./data/Obliviate.txt
+./data/Voice Mail.txt
+./data/그렇게 사랑은.txt
+./data/누구나 비밀은 있다.txt
+./data/마침표.txt
+./data/분홍신.txt
+./data/블루밍.txt
+./data/삐삐.txt
+./data/싫은 날.txt
+./data/에잇.txt
+./data/우울시계.txt
+./data/을의 연애.txt
+./data/이런 엔딩.txt
+./data/이름에게.txt
+./data/이지금.txt
+./data/입술 사이 (50cm).txt
+./data/잼잼.txt
+./data/좋은 날.txt
+./data/팔레트.txt
+./data/한낮의 꿈.txt
+```
+
+노래 가사는 저작권 문제로 따로 포함하진 않았습니다.
+
+직접 돌려보고 싶으시다면 ./data/ 디랙토리에 가사 파일을 올려주세요.
+
 ## Result
 
 ### initstr `비밀`
@@ -98,38 +134,3 @@
 ## 마무리
 
 이상하다
-
-
-## 데이터셋
-
-사용된 노래 가사는 다음과 같습니다.
-
-```
-./data/Havana.txt
-./data/Into the island.txt
-./data/Modern Times.txt
-./data/Obliviate.txt
-./data/Voice Mail.txt
-./data/그렇게 사랑은.txt
-./data/누구나 비밀은 있다.txt
-./data/마침표.txt
-./data/분홍신.txt
-./data/블루밍.txt
-./data/삐삐.txt
-./data/싫은 날.txt
-./data/에잇.txt
-./data/우울시계.txt
-./data/을의 연애.txt
-./data/이런 엔딩.txt
-./data/이름에게.txt
-./data/이지금.txt
-./data/입술 사이 (50cm).txt
-./data/잼잼.txt
-./data/좋은 날.txt
-./data/팔레트.txt
-./data/한낮의 꿈.txt
-```
-
-노래 가사는 저작권 문제로 따로 포함하진 않았습니다.
-
-직접 돌려보고 싶으시다면 ./data/ 디랙토리에 가사 파일을 올려주세요.
